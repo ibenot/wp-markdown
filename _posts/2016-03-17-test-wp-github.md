@@ -1,6 +1,12 @@
 ---
-post_title: 'Test WP Github'
+ID: 34
+post_title: Test WP Github
+author: ibenot
+post_date: 2016-03-17 15:04:06
+post_excerpt: ""
 layout: post
+permalink: >
+  http://bnotteghem.com/dev/test-wp-github/
 published: true
 ---
 <!---
@@ -130,34 +136,34 @@ Here is the code:
 
 ### Block Quote
 
-> Angle brackets `&gt;` are used for block quotes.
+&gt; Angle brackets `&gt;` are used for block quotes.
 Technically not every line needs to start with a `&gt;` as long as
 there are no empty lines between paragraphs.
-> Looks kinda ugly though.
-> &gt; Block quotes can be nested.
-> &gt; &gt; Multiple Levels
+&gt; Looks kinda ugly though.
+&gt; &gt; Block quotes can be nested.
+&gt; &gt; &gt; Multiple Levels
 &gt;
-> Most markdown syntaxes work inside block quotes.
+&gt; Most markdown syntaxes work inside block quotes.
 &gt;
-> * Lists
-> * [Links][arbitrary_id]
-> * Etc.
+&gt; * Lists
+&gt; * [Links][arbitrary_id]
+&gt; * Etc.
 
 Here is the code:
 
 ```
-> Angle brackets `&gt;` are used for block quotes.
+&gt; Angle brackets `&gt;` are used for block quotes.
 Technically not every line needs to start with a `&gt;` as long as
 there are no empty lines between paragraphs.
-> Looks kinda ugly though.
-> &gt; Block quotes can be nested.
-> &gt; &gt; Multiple Levels
+&gt; Looks kinda ugly though.
+&gt; &gt; Block quotes can be nested.
+&gt; &gt; &gt; Multiple Levels
 &gt;
-> Most markdown syntaxes work inside block quotes.
+&gt; Most markdown syntaxes work inside block quotes.
 &gt;
-> * Lists
-> * [Links][arbitrary_id]
-> * Etc.
+&gt; * Lists
+&gt; * [Links][arbitrary_id]
+&gt; * Etc.
 ```
 
 ### Inline Code
