@@ -8,4 +8,4 @@ layout: page
 permalink: http://bnotteghem.com/dev/test/
 published: true
 ---
-hello page
+hello page awesome
