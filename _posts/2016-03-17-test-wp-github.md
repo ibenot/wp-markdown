@@ -1,12 +1,6 @@
 ---
-ID: 34
 post_title: bliblo
-author: ibenot
-post_date: 2016-03-17 15:04:06
-post_excerpt: ""
 layout: post
-permalink: >
-  http://bnotteghem.com/dev/test-wp-github/
 published: true
 ---
 <!---
@@ -21,7 +15,7 @@ permalink: http://bnotteghem.com/dev/test/
 published: true
 -->
 
-# my awesome title 5.1
+# my awesome title 5.2
 
 ![MacDown logo](http://macdown.uranusjr.com/static/base/img/logo-160.png)
 
