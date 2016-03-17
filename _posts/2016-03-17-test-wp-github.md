@@ -21,7 +21,7 @@ permalink: http://bnotteghem.com/dev/test/
 published: true
 -->
 
-# my awesome title 4.5
+# my awesome title 5.1
 
 ![MacDown logo](http://macdown.uranusjr.com/static/base/img/logo-160.png)
 
@@ -136,34 +136,34 @@ Here is the code:
 
 ### Block Quote
 
-&gt; Angle brackets `&gt;` are used for block quotes.
+> Angle brackets `&gt;` are used for block quotes.
 Technically not every line needs to start with a `&gt;` as long as
 there are no empty lines between paragraphs.
-&gt; Looks kinda ugly though.
-&gt; &gt; Block quotes can be nested.
-&gt; &gt; &gt; Multiple Levels
+> Looks kinda ugly though.
+> &gt; Block quotes can be nested.
+> &gt; &gt; Multiple Levels
 &gt;
-&gt; Most markdown syntaxes work inside block quotes.
+> Most markdown syntaxes work inside block quotes.
 &gt;
-&gt; * Lists
-&gt; * [Links][arbitrary_id]
-&gt; * Etc.
+> * Lists
+> * [Links][arbitrary_id]
+> * Etc.
 
 Here is the code:
 
 ```
-&gt; Angle brackets `&gt;` are used for block quotes.
+> Angle brackets `&gt;` are used for block quotes.
 Technically not every line needs to start with a `&gt;` as long as
 there are no empty lines between paragraphs.
-&gt; Looks kinda ugly though.
-&gt; &gt; Block quotes can be nested.
-&gt; &gt; &gt; Multiple Levels
+> Looks kinda ugly though.
+> &gt; Block quotes can be nested.
+> &gt; &gt; Multiple Levels
 &gt;
-&gt; Most markdown syntaxes work inside block quotes.
+> Most markdown syntaxes work inside block quotes.
 &gt;
-&gt; * Lists
-&gt; * [Links][arbitrary_id]
-&gt; * Etc.
+> * Lists
+> * [Links][arbitrary_id]
+> * Etc.
 ```
 
 ### Inline Code
