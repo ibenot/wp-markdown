@@ -1,6 +1,6 @@
 ---
-post_title: 'GetReadmeFromGithubRepo'
-layout: post
+post_title: 'GetReadmeFromGithubRepo test'
+layout: page
 published: true
 ---
 
