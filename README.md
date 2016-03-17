@@ -1,3 +1,9 @@
+---
+post_title: 'GetReadmeFromGithubRepo'
+layout: post
+published: true
+---
+
 # MacDown
 
 ![MacDown logo](http://macdown.uranusjr.com/static/base/img/logo-160.png)
