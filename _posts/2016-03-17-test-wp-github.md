@@ -1,6 +1,6 @@
 ---
 ID: 34
-post_title: Test WP Github
+post_title: bliblo
 author: ibenot
 post_date: 2016-03-17 15:04:06
 post_excerpt: ""
