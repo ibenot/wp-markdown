@@ -1,3 +1,9 @@
+---
+post_title: 'Post Title'
+layout: post
+published: true
+---
+
 #la recette de la tarte au pommes
 
 ```php
