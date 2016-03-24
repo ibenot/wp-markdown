@@ -1,10 +1,4 @@
----
-post_title: 'GetReadmeFromGithubRepo test'
-layout: page
-published: true
----
-
-# MacDown test
+# Benji test
 
 ![MacDown logo](http://macdown.uranusjr.com/static/base/img/logo-160.png)
 
