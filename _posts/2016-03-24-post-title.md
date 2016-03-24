@@ -8,14 +8,16 @@ layout: post
 permalink: http://bnotteghem.com/dev/post-title/
 published: true
 ---
-# la recette de la tarte au pommes
+# la recette de la tarte au prunes
 
-`php
+```php
 $bli = 5;
 echo $bli;`
+```
 
-`css
+```css
 body{
   color:red;
   font-weight:bold;
-}`
+}
+```
