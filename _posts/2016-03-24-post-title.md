@@ -8,16 +8,10 @@ layout: post
 permalink: http://bnotteghem.com/dev/post-title/
 published: true
 ---
-# la recette de la tarte au prunes
+# la recette 2
 
-```php
-$bli = 5;
-echo $bli;`
-```
-
-```css
-body{
-  color:red;
-  font-weight:bold;
-}
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
 ```
