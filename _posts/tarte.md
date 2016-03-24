@@ -1,4 +1,4 @@
-#la recette de la tarte
+#la recette de la tarte au pommes
 
 ```php
 $bli = 5;
@@ -11,5 +11,3 @@ body{
   font-weight:bold;
 }
 ```
-
-##bye
