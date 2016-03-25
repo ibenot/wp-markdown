@@ -11,7 +11,6 @@ published: true
 taxonomie: [ ]
 tag: [ ]
 language:
-  - 28
   - 22
 version:
   - 1.0.0
