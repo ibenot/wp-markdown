@@ -9,6 +9,7 @@ permalink: >
   http://bnotteghem.com/dev/module-prestashop-1-0/
 published: true
 taxonomie:
+  - Documentation
   - PHP
 tag:
   - "1.0"
