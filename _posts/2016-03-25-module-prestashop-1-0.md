@@ -11,7 +11,6 @@ published: true
 taxonomie:
   - PHP
 tag:
-  - "1"
   - "1.0"
 ---
 bli blo
