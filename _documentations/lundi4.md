@@ -11,8 +11,8 @@ published: true
 taxonomie: [ ]
 tag: [ ]
 language:
-  - PHP
+  - android
 version:
-  - 6.6.7
+  - 6.6.8
 ---
-test with "mu-plugins"
+test with "mu-plugins" updated
