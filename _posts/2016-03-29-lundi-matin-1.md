@@ -8,9 +8,9 @@ layout: post
 permalink: http://bnotteghem.com/dev/lundi-matin-1/
 published: true
 taxonomie:
-  - 30
+  - 32
 tag:
-  - 6.6.6
+  - 6.7.8
 language: [ ]
 version: [ ]
 ---
