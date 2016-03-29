@@ -11,12 +11,7 @@ published: true
 taxonomie: [ ]
 tag: [ ]
 language:
-  - Android
-  - iOS
-  - java
-  - objective-c
-  - objective d
-  - PHP
+  - Objective C
 version:
   - "9.11"
 ---
