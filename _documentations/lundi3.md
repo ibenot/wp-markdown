@@ -14,7 +14,8 @@ language:
   - android
   - ios
   - php
+  - java
 version:
-  - 9.10
+  - 9.11
 ---
 bli blo
