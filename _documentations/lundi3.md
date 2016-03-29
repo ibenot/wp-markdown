@@ -16,6 +16,6 @@ language:
   - ANDROID
   - Ios
 version:
-  - "9.11"
+  - 9.12
 ---
 bli blo
