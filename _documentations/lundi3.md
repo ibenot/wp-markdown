@@ -13,8 +13,9 @@ tag: [ ]
 language:
   - Android
   - iOS
-  - Java
-  - Objective C
+  - java
+  - objective-c
+  - objective d
   - PHP
 version:
   - "9.11"
