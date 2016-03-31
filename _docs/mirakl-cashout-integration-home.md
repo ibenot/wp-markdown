@@ -13,7 +13,7 @@ language:
 version:
   - 1.0.0
 ---
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+![Image of Yaktocat](https://github.com/hipay/hipay-wallet-cashout-mirakl-integration/wiki/images/header.jpg)
 
 # HiPay cash-out integration for Mirakl
 
