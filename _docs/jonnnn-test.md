@@ -8,7 +8,11 @@ layout: documentation
 permalink: >
   http://bnotteghem.com/dev/doc/jonnnn-test/
 published: true
-language: [ ]
-version: [ ]
+language:
+  - PHP
+  - Android
+  - ios
+version:
+  - 1.3.10
 ---
 #bli bloefezfzeff
