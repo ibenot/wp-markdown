@@ -13,8 +13,6 @@ language:
 version:
   - 1.0.0
 ---
-![Image of Yaktocat](https://github.com/hipay/hipay-wallet-cashout-mirakl-integration/wiki/images/header.jpg)
-
 # HiPay cash-out integration for Mirakl
 
 ## Preamble
