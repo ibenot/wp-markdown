@@ -9,7 +9,8 @@ permalink: http://bnotteghem.com/dev/doc/azerty/
 published: true
 language:
   - Java
+  - android
 version:
-  - "1.2"
+  - "1.3"
 ---
 bli blo
