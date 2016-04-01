@@ -7,7 +7,9 @@ post_excerpt: ""
 layout: documentation
 permalink: http://bnotteghem.com/dev/doc/crazy/
 published: true
-language: php
-version: 1.2.3.2.1
+language:
+  - iOS
+version:
+  - "2.1"
 ---
 zzezeze
