@@ -9,9 +9,8 @@ permalink: http://bnotteghem.com/dev/doc/cheval/
 published: true
 language:
   - PHP
-  - ios
   - android
 version:
-  - "1.4.2"
+  - "1.4.3"
 ---
 aaaa
