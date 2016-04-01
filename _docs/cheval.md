@@ -9,8 +9,7 @@ permalink: http://bnotteghem.com/dev/doc/cheval/
 published: true
 language:
   - iOS
-  - android
 version:
-  - 2.0.5.2
+  - 3.1.1.1
 ---
-aaaabbbbb from gh 2
+aaaabbbbb from gh 3
