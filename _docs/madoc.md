@@ -7,6 +7,9 @@ post_excerpt: ""
 layout: documentation
 permalink: http://bnotteghem.com/dev/doc/madoc/
 published: true
+languages:
+  - "24"
+  - "23"
 language: [ ]
 version: [ ]
 ---
