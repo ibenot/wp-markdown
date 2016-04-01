@@ -1,6 +1,6 @@
 ---
 ID: 350
-post_title: 'Mirakl cashout integration &#8211; Home'
+post_title: Mirakl cashout integration – Home
 author: ibenot
 post_date: 2016-03-31 11:40:49
 post_excerpt: ""
