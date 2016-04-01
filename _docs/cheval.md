@@ -10,6 +10,6 @@ published: true
 language:
   - iOS
 version:
-  - 1.0.1
+  - 1.0.2
 ---
 aaaabbbbb from wp
