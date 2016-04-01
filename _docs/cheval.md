@@ -8,9 +8,8 @@ layout: documentation
 permalink: http://bnotteghem.com/dev/doc/cheval/
 published: true
 language:
-  - ios
-  - android
+  - iOS
 version:
-  - "1.5.88"
+  - 1.0.1
 ---
-aaaabbbbb
+aaaabbbbb from wp
