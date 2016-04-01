@@ -8,9 +8,8 @@ layout: documentation
 permalink: http://bnotteghem.com/dev/doc/cheval/
 published: true
 language:
-  - PHP
   - ios
 version:
-  - "1.4.9.9"
+  - "1.5.0"
 ---
-aaaa
+aaaabbbbb
