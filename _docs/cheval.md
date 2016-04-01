@@ -11,6 +11,6 @@ language:
   - iOS
   - android
 version:
-  - 1.0.4
+  - 2.0.4
 ---
 aaaabbbbb from gh
