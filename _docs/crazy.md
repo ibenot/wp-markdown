@@ -8,8 +8,9 @@ layout: documentation
 permalink: http://bnotteghem.com/dev/doc/crazy/
 published: true
 language:
+  - Android
   - Objective C
 version:
-  - "2.2"
+  - 2.3.4.5
 ---
 test with get_the_ID();
