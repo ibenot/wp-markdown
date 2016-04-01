@@ -8,8 +8,8 @@ layout: documentation
 permalink: http://bnotteghem.com/dev/doc/crazy/
 published: true
 language:
-  - iOS
+  - Objective C
 version:
-  - "2.1"
+  - "2.2"
 ---
-zzezeze
+test with get_the_ID();
