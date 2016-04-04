@@ -9,14 +9,13 @@ permalink: >
   http://bnotteghem.com/dev/doc/filezilla1/
 published: true
 language:
-  - PHP
   - android
   - ios
 tag:
-  - "1.3"
+  - "1.4"
 chapter:
   - secondo
 product:
   - direct
 ---
-bli blo 1.3
+bli blo 1.4
