@@ -5,7 +5,7 @@ author: ibenot
 post_date: 2016-04-04 15:39:41
 post_excerpt: ""
 layout: documentation
-permalink: http://bnotteghem.com/dev/doc/mytitle/
+permalink: http://bnotteghem.com/dev/doc/mytitle
 published: true
 language:
   - PHP
