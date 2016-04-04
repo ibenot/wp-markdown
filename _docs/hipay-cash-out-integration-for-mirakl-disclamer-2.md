@@ -6,7 +6,7 @@ post_date: 2016-04-04 17:14:20
 post_excerpt: ""
 layout: documentation
 permalink: >
-  http://bnotteghem.com/dev/doc/hipay-cash-out-integration-for-mirakl-disclamer-copy/2/1-2/
+  http://bnotteghem.com/dev/doc/hipay-cash-out-integration-for-mirakl-disclamer-2/2/1-2/
 published: true
 language:
   - PHP
