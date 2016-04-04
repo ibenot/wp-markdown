@@ -1,21 +1,19 @@
 ---
+ID: 494
 post_title: 4. Mirakl account configuration
+author: ibenot
+post_date: 2016-04-04 15:04:19
+post_excerpt: ""
 layout: documentation
 permalink: >
-  http://bnotteghem.com/dev/doc/mirakl-4-account-config-1-0-3/
+  http://bnotteghem.com/dev/doc/4-mirakl-account-configuration/
 published: true
-language:
-  - PHP
-tag:
-  - 1.0.3
-chapter:
-  - Mirakl account configuration
-product:
-  - HiPay Wallet
-techno:
-  - Mirakl
+language: [ ]
+tag: [ ]
+chapter: [ ]
+product: [ ]
+techno: [ ]
 ---
-
 Before starting the installation, please read all instructions and make sure you've gone through the [[Prerequisites and recommendations]] section.
  
 # Preamble
