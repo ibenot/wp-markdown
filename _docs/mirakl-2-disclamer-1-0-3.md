@@ -1,6 +1,6 @@
 ---
 ID: 485
-post_title: 2.Disclaimer
+post_title: 2. Disclaimer
 author: ibenot
 post_date: 2016-04-04 14:29:10
 post_excerpt: ""
