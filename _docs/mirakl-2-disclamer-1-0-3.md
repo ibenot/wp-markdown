@@ -8,10 +8,15 @@ layout: documentation
 permalink: >
   http://bnotteghem.com/dev/doc/mirakl-2-disclamer-1-0-3/
 published: true
-language: [ ]
-tag: [ ]
-chapter: [ ]
-product: [ ]
-techno: [ ]
+language:
+  - PHP
+tag:
+  - 1.0.3
+chapter:
+  - Disclaimer
+product:
+  - HiPay Wallet
+techno:
+  - Mirakl
 ---
 While every effort has been made to ensure the accuracy of the information contained in this publication, the information is supplied without representation or warranty of any kind, is subject to change without notice and does not represent a commitment on the part of HiPay. HiPay, therefore, assumes no responsibility and shall have no liability, consequential or otherwise, of any kind arising from this material or any part thereof, or any supplementary materials subsequently issued by HiPay.
