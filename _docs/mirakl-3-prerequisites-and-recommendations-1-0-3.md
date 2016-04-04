@@ -6,7 +6,7 @@ post_date: 2016-04-04 14:54:42
 post_excerpt: ""
 layout: documentation
 permalink: >
-  http://bnotteghem.com/dev/doc/mirakl-2-disclamer-1-0-3-copy/
+  http://bnotteghem.com/dev/doc/mirakl-3-prerequisites-and-recommendations-1-0-3/
 published: true
 language:
   - PHP
