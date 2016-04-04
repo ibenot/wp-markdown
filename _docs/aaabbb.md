@@ -7,13 +7,10 @@ post_excerpt: ""
 layout: documentation
 permalink: http://bnotteghem.com/dev/doc/aaabbb/
 published: true
-language:
-  - PHP
-tag:
-  - 1.2.1
-chapter:
-  - awesome
-product:
-  - wallet
+language: [ ]
+tag: [ ]
+chapter: [ ]
+product: [ ]
+techno: [ ]
 ---
 azaz
