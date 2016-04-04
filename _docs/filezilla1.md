@@ -10,11 +10,12 @@ permalink: >
 published: true
 language:
   - PHP
+  - android
 tag:
-  - "1.1"
+  - "1.2"
 chapter:
-  - intro
+  - secondo
 product:
-  - wallet
+  - direct
 ---
-bli blo
+bli blo from gh with functions.php
