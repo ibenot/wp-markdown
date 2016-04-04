@@ -6,7 +6,7 @@ post_date: 2016-04-04 16:29:35
 post_excerpt: ""
 layout: documentation
 permalink: >
-  http://bnotteghem.com/dev/doc/1-hipay-cash-out-integration-for-mirakl/1-home/1-1/
+  http://bnotteghem.com/dev/doc/hipay-cash-out-integration-for-mirakl-2/1-home/1-1/
 published: true
 language:
   - PHP
