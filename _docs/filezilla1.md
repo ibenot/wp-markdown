@@ -9,14 +9,12 @@ permalink: >
   http://bnotteghem.com/dev/doc/filezilla1/
 published: true
 language:
-  - android
-  - ios
-  - php
+  - Android
 tag:
-  - "1.5"
+  - "9.9"
 chapter:
-  - secondo
+  - first
 product:
-  - direct
+  - marketplace
 ---
-bli blo 1.5
+v 1.8
