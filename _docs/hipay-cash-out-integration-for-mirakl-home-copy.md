@@ -1,18 +1,23 @@
 ---
 ID: 527
-post_title: 'HiPay cash-out integration for Mirakl &#8211; Home Copy'
+post_title: 'HiPay cash-out integration for Mirakl &#8211; Home'
 author: ibenot
 post_date: 2016-04-04 17:12:25
 post_excerpt: ""
 layout: documentation
 permalink: >
-  http://bnotteghem.com/dev/doc/hipay-cash-out-integration-for-mirakl-home-copy/%chapter%/%tag%/
+  http://bnotteghem.com/dev/doc/hipay-cash-out-integration-for-mirakl-home-copy/1/1-2/
 published: true
-language: [ ]
-tag: [ ]
-chapter: [ ]
-product: [ ]
-techno: [ ]
+language:
+  - PHP
+tag:
+  - "1.2"
+chapter:
+  - "1"
+product:
+  - HiPay Wallet
+techno:
+  - Mirakl
 ---
 # HiPay cash-out integration for Mirakl 1.1
 
