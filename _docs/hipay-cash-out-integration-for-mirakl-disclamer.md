@@ -1,12 +1,12 @@
 ---
 ID: 502
-post_title: HiPay cash-out integration for Mirakl
+post_title: 'HiPay cash-out integration for Mirakl &#8211; Disclamer'
 author: ibenot
 post_date: 2016-04-04 16:37:17
 post_excerpt: ""
 layout: documentation
 permalink: >
-  http://bnotteghem.com/dev/doc/hipay-cash-out-integration-for-mirakl/2-disclaimer/1-1/
+  http://bnotteghem.com/dev/doc/hipay-cash-out-integration-for-mirakl-disclamer/2-disclaimer/1-1/
 published: true
 language:
   - PHP
