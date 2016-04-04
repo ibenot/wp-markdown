@@ -11,11 +11,12 @@ published: true
 language:
   - PHP
   - android
+  - ios
 tag:
-  - "1.2"
+  - "1.3"
 chapter:
   - secondo
 product:
   - direct
 ---
-bli blo from gh with functions.php
+bli blo 1.3
