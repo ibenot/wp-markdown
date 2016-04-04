@@ -7,14 +7,10 @@ post_excerpt: ""
 layout: documentation
 permalink: http://bnotteghem.com/dev/doc/sos/
 published: true
-language:
-  - Java
-  - ios
-tag:
-  - 2.2.2.2.2
-chapter:
-  - second
-product:
-  - wallet
+language: [ ]
+tag: [ ]
+chapter: [ ]
+product: [ ]
+techno: [ ]
 ---
 help please again
