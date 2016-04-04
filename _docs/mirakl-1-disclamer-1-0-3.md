@@ -6,7 +6,7 @@ post_date: 2016-04-04 14:29:10
 post_excerpt: ""
 layout: documentation
 permalink: >
-  http://bnotteghem.com/dev/doc/mirakl-disclamer-1-0-3/
+  http://bnotteghem.com/dev/doc/mirakl-1-disclamer-1-0-3/
 published: true
 language: [ ]
 tag: [ ]
