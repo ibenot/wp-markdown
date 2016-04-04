@@ -8,14 +8,14 @@ layout: documentation
 permalink: http://bnotteghem.com/dev/doc/tuto1/
 published: true
 language:
-  - iOS
+  - php
 tag:
-  - 1.2.3
+  - 1.2.4
 chapter:
   - intro
 product:
-  - wallet
+  - direct
 techno:
-  - SDK iOS
+  - SDK Android
 ---
-bli blo content tuto 1
+bli blo content tuto 1.2.4
