@@ -6,18 +6,13 @@ post_date: 2016-04-04 16:43:33
 post_excerpt: ""
 layout: documentation
 permalink: >
-  http://bnotteghem.com/dev/doc/hipay-cash-out-integration-for-mirakl-prerequisites-and-recommendations/3-prerequisites-and-recommendations/1-1/
+  http://bnotteghem.com/dev/doc/hipay-cash-out-integration-for-mirakl-prerequisites-and-recommendations/3/1-1/
 published: true
-language:
-  - PHP
-tag:
-  - "1.1"
-chapter:
-  - 3. Prerequisites and recommendations
-product:
-  - HiPay Wallet
-techno:
-  - Mirakl
+language: [ ]
+tag: [ ]
+chapter: [ ]
+product: [ ]
+techno: [ ]
 ---
 # Objective
 
