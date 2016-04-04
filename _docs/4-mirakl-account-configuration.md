@@ -13,7 +13,7 @@ language:
 tag:
   - 1.0.3
 chapter:
-  - Prerequisites and recommendations
+  - Mirakl account configuration
 product:
   - HiPay Wallet
 techno:
