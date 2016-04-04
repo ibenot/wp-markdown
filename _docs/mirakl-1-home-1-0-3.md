@@ -6,7 +6,7 @@ post_date: 2016-04-04 14:23:08
 post_excerpt: ""
 layout: documentation
 permalink: >
-  http://bnotteghem.com/dev/doc/mirakl-home-1-0-3/
+  http://bnotteghem.com/dev/doc/mirakl-1-home-1-0-3/
 published: true
 language: [ ]
 tag: [ ]
