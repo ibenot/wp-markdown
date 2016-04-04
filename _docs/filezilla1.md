@@ -8,14 +8,10 @@ layout: documentation
 permalink: >
   http://bnotteghem.com/dev/doc/filezilla1/
 published: true
-language:
-  - Android
-  - ios
-tag:
-  - "9.15"
-chapter:
-  - third
-product:
-  - market
+language: [ ]
+tag: [ ]
+chapter: [ ]
+product: [ ]
+techno: [ ]
 ---
 v 9.15
