@@ -1,19 +1,19 @@
 ---
-post_title: HiPay cash-out integration - Prerequisites and recommendations
+ID: 536
+post_title: 'HiPay cash-out integration &#8211; Prerequisites and recommendations'
+author: ibenot
+post_date: 2016-04-05 09:04:23
+post_excerpt: ""
 layout: documentation
+permalink: >
+  http://bnotteghem.com/dev/doc/%techno%/hipay-cash-out-integration-prerequisites-and-recommendations/%chapter%/%tag%/
 published: true
-language:
-  - PHP
-tag:
-  - 1.0.0
-chapter:
-  - 3
-product:
-  - HiPay Wallet
-techno:
-  - Mirakl
+language: [ ]
+tag: [ ]
+chapter: [ ]
+product: [ ]
+techno: [ ]
 ---
-
 # Objective
 
 This integration intends to facilitate cash-out operations between HiPay and Mirakl. This software is based on the [Silex PHP micro-framework](http://silex.sensiolabs.org/) and integrates the [HiPay Wallet cash-out connector for Mirakl][repo-lib] PHP library.
@@ -47,7 +47,7 @@ This integration intends to facilitate cash-out operations between HiPay and Mir
 - Even though Mirakl does not require filling in the phone number section, it must be completed to create a HiPay Wallet account.
 - Even though Mirakl only requires filling in the IBAN and the BIC in the banking information section, all form fields must be completed to provide banking information to HiPay.
 - Only alphanumeric characters should be used for filling in the fields, especially for banking information, as HiPay only accepts this category of characters.
-- The version of the API should be at least 3.\*.\*.
+- The version of the API should be at least 3.*.*.
 - Should the API version be higher, as long as the concerned API being called remains backwards compatible, there won't be any problem.
 
 ## HiPay

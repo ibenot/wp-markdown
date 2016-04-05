@@ -1,19 +1,19 @@
 ---
-post_title: HiPay cash-out integration - Usage
+ID: 539
+post_title: 'HiPay cash-out integration &#8211; Usage'
+author: ibenot
+post_date: 2016-04-05 09:04:24
+post_excerpt: ""
 layout: documentation
+permalink: >
+  http://bnotteghem.com/dev/doc/%techno%/hipay-cash-out-integration-usage/%chapter%/%tag%/
 published: true
-language:
-  - PHP
-tag:
-  - 1.0.0
-chapter:
-  - 6
-product:
-  - HiPay Wallet
-techno:
-  - Mirakl
+language: [ ]
+tag: [ ]
+chapter: [ ]
+product: [ ]
+techno: [ ]
 ---
-
 # General usage
 
 The HiPay Wallet cash-out integration for Mirakl is intended to be used with a *cron*, but can be used directly from the command line. In fact, this software is supposed to execute tasks automatically, which is why you need to configure *cron* jobs (or any other alternative) that will execute commands at the appropriate time automatically.

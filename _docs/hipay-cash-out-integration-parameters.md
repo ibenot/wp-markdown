@@ -1,19 +1,19 @@
 ---
-post_title: HiPay cash-out integration - Parameters
+ID: 540
+post_title: 'HiPay cash-out integration &#8211; Parameters'
+author: ibenot
+post_date: 2016-04-05 09:04:24
+post_excerpt: ""
 layout: documentation
+permalink: >
+  http://bnotteghem.com/dev/doc/%techno%/hipay-cash-out-integration-parameters/%chapter%/%tag%/
 published: true
-language:
-  - PHP
-tag:
-  - 1.0.0
-chapter:
-  - 7
-product:
-  - HiPay Wallet
-techno:
-  - Mirakl
+language: [ ]
+tag: [ ]
+chapter: [ ]
+product: [ ]
+techno: [ ]
 ---
-
 The following table describes the data in `parameters.yml`. The user you run the commands with should have write access to all the paths you use in this file.
 
 # Parameter categories
@@ -114,4 +114,3 @@ Each string must be surrounded by {{ and }} to be replaced.
 | `date`          | Execution date of the operation                                         |
 | `dateTime`      | Execution date and time of the operation                                |
 | `time`          | Execution time of the operation                                         |
-

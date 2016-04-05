@@ -1,19 +1,19 @@
 ---
-post_title: HiPay cash-out integration - Account configuration
+ID: 537
+post_title: 'HiPay cash-out integration &#8211; Account configuration'
+author: ibenot
+post_date: 2016-04-05 09:04:23
+post_excerpt: ""
 layout: documentation
+permalink: >
+  http://bnotteghem.com/dev/doc/%techno%/hipay-cash-out-integration-account-configuration/%chapter%/%tag%/
 published: true
-language:
-  - PHP
-tag:
-  - 1.0.0
-chapter:
-  - 4
-product:
-  - HiPay Wallet
-techno:
-  - Mirakl
+language: [ ]
+tag: [ ]
+chapter: [ ]
+product: [ ]
+techno: [ ]
 ---
-
 Before starting the installation, please read all instructions and make sure you've gone through the [[Prerequisites and recommendations]] section.
  
 # Preamble
