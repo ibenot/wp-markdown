@@ -8,11 +8,16 @@ layout: documentation
 permalink: >
   http://bnotteghem.com/dev/doc/hipay-cash-out-integration-home/
 published: true
-language: [ ]
-tag: [ ]
-chapter: [ ]
-product: [ ]
-techno: [ ]
+language:
+  - PHP
+tag:
+  - 1.0.0
+chapter:
+  - 1. Home
+product:
+  - HiPay Wallet
+techno:
+  - Mirakl
 ---
 ![HiPay cash-out integration for Mirakl](https://github.com/hipay/hipay-wallet-cashout-mirakl-integration/wiki/images/header.jpg)
 
