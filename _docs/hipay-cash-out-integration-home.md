@@ -1,12 +1,12 @@
 ---
 ID: 541
-post_title: 'HiPay cash-out integration &#8211; Home'
+post_title: 'HiPay cash-out integration &#8211; Home &#8211; 1.0.0'
 author: ibenot
 post_date: 2016-04-05 09:16:18
 post_excerpt: ""
 layout: documentation
 permalink: >
-  http://bnotteghem.com/dev/doc/hipay-cash-out-integration-home/
+  http://bnotteghem.com/dev/doc/hipay-cash-out-integration-home-1-0-0/
 published: true
 language:
   - PHP
