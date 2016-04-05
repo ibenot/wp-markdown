@@ -1,6 +1,8 @@
 ---
 ID: 541
-post_title: 'HiPay cash-out integration &#8211; Home &#8211; 1.0.0'
+post_title: >
+  HiPay cash-out integration – Home –
+  1.0.0
 author: ibenot
 post_date: 2016-04-05 09:16:18
 post_excerpt: ""
