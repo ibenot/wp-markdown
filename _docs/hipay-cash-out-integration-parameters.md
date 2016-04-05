@@ -8,11 +8,16 @@ layout: documentation
 permalink: >
   http://bnotteghem.com/dev/doc/%techno%/hipay-cash-out-integration-parameters/%chapter%/%tag%/
 published: true
-language: [ ]
-tag: [ ]
-chapter: [ ]
-product: [ ]
-techno: [ ]
+language:
+  - PHP
+tag:
+  - 1.0.0
+chapter:
+  - 7
+product:
+  - HiPay Wallet
+techno:
+  - Mirakl
 ---
 The following table describes the data in `parameters.yml`. The user you run the commands with should have write access to all the paths you use in this file.
 

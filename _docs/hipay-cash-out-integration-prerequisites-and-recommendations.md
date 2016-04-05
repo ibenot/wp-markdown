@@ -8,11 +8,16 @@ layout: documentation
 permalink: >
   http://bnotteghem.com/dev/doc/%techno%/hipay-cash-out-integration-prerequisites-and-recommendations/%chapter%/%tag%/
 published: true
-language: [ ]
-tag: [ ]
-chapter: [ ]
-product: [ ]
-techno: [ ]
+language:
+  - PHP
+tag:
+  - 1.0.0
+chapter:
+  - 3
+product:
+  - HiPay Wallet
+techno:
+  - Mirakl
 ---
 # Objective
 

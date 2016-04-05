@@ -8,11 +8,16 @@ layout: documentation
 permalink: >
   http://bnotteghem.com/dev/doc/%techno%/hipay-cash-out-integration-account-configuration/%chapter%/%tag%/
 published: true
-language: [ ]
-tag: [ ]
-chapter: [ ]
-product: [ ]
-techno: [ ]
+language:
+  - PHP
+tag:
+  - 1.0.0
+chapter:
+  - 4
+product:
+  - HiPay Wallet
+techno:
+  - Mirakl
 ---
 Before starting the installation, please read all instructions and make sure you've gone through the [[Prerequisites and recommendations]] section.
  
