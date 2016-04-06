@@ -7,14 +7,10 @@ post_excerpt: ""
 layout: documentation
 permalink: http://bnotteghem.com/dev/doc/intro/
 published: true
-language:
-  - PHP
-tag:
-  - "1.1"
-chapter:
-  - Intro
-product:
-  - HiPay Wallet
+language: [ ]
+tag: [ ]
+chapter: [ ]
+product: [ ]
 techno: [ ]
 ---
 txt tuto wp
