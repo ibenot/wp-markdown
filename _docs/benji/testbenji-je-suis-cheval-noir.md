@@ -8,10 +8,15 @@ layout: documentation
 permalink: >
   http://bnotteghem.com/dev/doc/testbenji-je-suis-cheval-noir/
 published: true
-language: [ ]
-tag: [ ]
-chapter: [ ]
-product: [ ]
-techno: [ ]
+language:
+  - iOS
+tag:
+  - "9998"
+chapter:
+  - first
+product:
+  - HiPay Wallet
+techno:
+  - woocommerce
 ---
 hello world
