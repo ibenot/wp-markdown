@@ -17,6 +17,6 @@ chapter:
 product:
   - HiPay Wallet
 techno:
-  - woocommerce
+  - prestashop
 ---
 hello world
