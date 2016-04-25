@@ -8,10 +8,15 @@ layout: documentation
 permalink: >
   http://bnotteghem.com/dev/doc/ayayayay-poisson-jaune/
 published: true
-language: [ ]
-tag: [ ]
-chapter: [ ]
-product: [ ]
-techno: [ ]
+language:
+  - PHP
+tag:
+  - "3"
+chapter:
+  - first
+product:
+  - HiPay Wallet
+techno:
+  - Mirakl
 ---
 hello poisson jaune
