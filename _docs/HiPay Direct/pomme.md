@@ -7,9 +7,9 @@ language:
   - ios
   - android
 tag:
-  - "987654"
+  - "666"
 chapter:
-  - first&third
+  - first
 product:
   - HiPay Direct
 techno:
