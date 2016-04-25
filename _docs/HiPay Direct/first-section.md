@@ -8,11 +8,15 @@ layout: documentation
 permalink: >
   http://bnotteghem.com/dev/doc/first-section/
 published: true
-language: [ ]
-tag: [ ]
-chapter: [ ]
+language:
+  - PHP
+tag:
+  - "987"
+chapter:
+  - first
 product:
   - HiPay Direct
-techno: [ ]
+techno:
+  - joomla
 ---
 sdfzfsdf
