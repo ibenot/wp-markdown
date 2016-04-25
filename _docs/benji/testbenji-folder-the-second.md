@@ -10,9 +10,9 @@ permalink: >
 published: true
 language:
   - Android
-  - ios
+  - iOS
 tag:
-  - "22"
+  - "33"
 chapter:
   - first
 product:
