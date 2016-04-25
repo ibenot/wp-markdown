@@ -8,9 +8,15 @@ layout: documentation
 permalink: >
   http://bnotteghem.com/dev/doc/testbenji-folder-the-second/
 published: true
-language: [ ]
-tag: [ ]
-chapter: [ ]
-product: [ ]
-techno: [ ]
+language:
+  - Android
+  - ios
+tag:
+  - "22"
+chapter:
+  - first
+product:
+  - HiPay Wallet
+techno:
+  - woocommerce
 ---
