@@ -1,0 +1,8 @@
+- [[Home]]
+- [[Disclaimer]]
+- [[Prerequisites and recommendations]]
+- [[Mirakl account configuration]]
+- [[Installation]]
+- [[Usage]]
+- [[Update]]
+- [[Parameters]]

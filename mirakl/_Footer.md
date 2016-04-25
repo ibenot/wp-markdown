@@ -1,0 +1,1 @@
+Should you need help in integrating our softwares, [please click here to contact HiPay’s Business IT Services for technical support](http://help.hipay.com).
