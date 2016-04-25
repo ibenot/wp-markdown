@@ -12,7 +12,8 @@ language:
   - PHP
   - ios
   - android
-tag: [ ]
+tag:
+  - "3"
 chapter: [ ]
 product:
   - HiPay Marketplace
