@@ -11,7 +11,7 @@ published: true
 language:
   - PHP
 tag:
-  - "6"
+  - "7"
 chapter:
   - discover
 product:
@@ -19,4 +19,4 @@ product:
 techno:
   - Mirakl
 ---
-#hello mirakl 6
+#hello mirakl 7
