@@ -1,6 +1,10 @@
 ---
-post_title: je suis un cheval violet
+post_title: cheval violet
+author: ibenot
+post_excerpt: ""
 layout: documentation
+permalink: >
+  http://bnotteghem.com/dev/doc/cheval-violet/
 published: true
 language:
   - Java
