@@ -8,7 +8,10 @@ layout: documentation
 permalink: >
   http://bnotteghem.com/dev/doc/cheval-mauve/
 published: true
-language: [ ]
+language:
+  - PHP
+  - ios
+  - android
 tag: [ ]
 chapter: [ ]
 product:
