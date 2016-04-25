@@ -2,6 +2,16 @@
 post_title: cheval vert test
 layout: documentation
 published: true
+language:
+  - Java
+tag:
+  - "99"
+chapter:
+  - first
+product:
+  - HiPay Marketplace
+techno:
+  - Prestashop
 ---
 
 bli lbo
