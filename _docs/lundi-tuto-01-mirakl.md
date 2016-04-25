@@ -8,10 +8,15 @@ layout: documentation
 permalink: >
   http://bnotteghem.com/dev/doc/lundi-tuto-01-mirakl/
 published: true
-language: [ ]
-tag: [ ]
-chapter: [ ]
-product: [ ]
-techno: [ ]
+language:
+  - PHP
+tag:
+  - "4"
+chapter:
+  - second
+product:
+  - HiPay Wallet
+techno:
+  - Mirakl
 ---
 #hello mirakl 4
