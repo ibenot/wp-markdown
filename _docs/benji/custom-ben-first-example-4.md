@@ -1,20 +1,19 @@
 ---
+ID: 643
 post_title: custom ben first example
+author: ibenot
+post_date: 2016-04-25 13:26:08
+post_excerpt: ""
 layout: documentation
+permalink: >
+  http://bnotteghem.com/dev/doc/custom-ben-first-example-4/
 published: true
-permalink: http://bnotteghem.com/dev/doc/dazzdqsdfdsffs/
-language:
-  - PHP
-tag:
-  - 3
-chapter:
-  - 2. Disclamer
-product:
-  - HiPay Wallet
-techno:
-  - Mirakl
+language: [ ]
+tag: [ ]
+chapter: [ ]
+product: [ ]
+techno: [ ]
 ---
-
 Before starting the installation, please read all instructions and make sure you've gone through the [[Prerequisites and recommendations]] section.
  
 # Preamble
