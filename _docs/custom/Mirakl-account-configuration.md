@@ -5,7 +5,7 @@ published: true
 language:
   - PHP
 tag:
-  - 1.0.0
+  - 3
 chapter:
   - 2. Disclamer
 product:
