@@ -7,8 +7,10 @@ post_excerpt: ""
 layout: documentation
 permalink: http://bnotteghem.com/dev/doc/test/
 published: true
-language: [ ]
-tag: [ ]
+language:
+  - PHP
+tag:
+  - "3"
 chapter: [ ]
 product:
   - myproduct
