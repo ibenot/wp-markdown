@@ -1,3 +1,19 @@
+---
+post_title: custom ben first example
+layout: documentation
+published: true
+language:
+  - PHP
+tag:
+  - 1.0.0
+chapter:
+  - 2. Disclamer
+product:
+  - HiPay Wallet
+techno:
+  - Mirakl
+---
+
 Before starting the installation, please read all instructions and make sure you've gone through the [[Prerequisites and recommendations]] section.
  
 # Preamble
