@@ -2,6 +2,7 @@
 post_title: custom ben first example
 layout: documentation
 published: true
+permalink: http://bnotteghem.com/dev/doc/dazzdqsdfdsffs/
 language:
   - PHP
 tag:
