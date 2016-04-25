@@ -15,6 +15,7 @@ chapter:
   - first
 product:
   - HiPay Wallet
-techno: [ ]
+techno:
+  - Mirakl
 ---
 hello content
