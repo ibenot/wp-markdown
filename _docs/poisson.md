@@ -8,10 +8,10 @@ layout: documentation
 permalink: http://bnotteghem.com/dev/doc/poisson/
 published: true
 language:
+  - Android
   - PHP
-  - android
 tag:
-  - "1122"
+  - "112233"
 chapter:
   - first
 product:
@@ -19,4 +19,4 @@ product:
 techno:
   - Wordpress
 ---
-edezdez
+edezdezezffzefze
