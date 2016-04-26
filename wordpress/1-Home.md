@@ -14,4 +14,4 @@ This integration is a standalone application software that will, once set up, ha
 5. [[Usage]]
 6. [[Parameters]]
 
-yooooooo
+![Image of Yaktocat](https://farm5.staticflickr.com/4099/4919659112_b9f6b0df8f_o_d.png)
