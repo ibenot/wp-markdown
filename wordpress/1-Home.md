@@ -6,10 +6,10 @@ awesome dynamic documentation from github
 ## Objective
 This integration is a standalone application software that will, once set up, handle cash-out operations. This is done by automatically retrieving the payment orders from Wordpress and sending them to HiPay for withdrawal both to the merchants' and the marketplace operator's bank accounts. 
 
-Anchors test benji
-[Link to GENERAL USAGE](#general-usage)
-[Link to NOTIFICATIONS](#notifications)
-[Link to CASH-OUT GENERATION](#available-commands-cash-out-generation)
+## Anchors test benji
+1. [Link to GENERAL USAGE](#general-usage)
+2. [Link to NOTIFICATIONS](#notifications)
+3. [Link to CASH-OUT GENERATION](#available-commands-cash-out-generation)
 
 ## Table of contents
 1. [[Disclaimer]]
