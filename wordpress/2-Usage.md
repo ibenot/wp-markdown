@@ -1,6 +1,6 @@
 # General usage
 
-The HiPay Wallet cash-out integration for Mirakl is intended to be used with a *cron*, but can be used directly from the command line. In fact, this software is supposed to execute tasks automatically, which is why you need to configure *cron* jobs (or any other alternative) that will execute commands at the appropriate time automatically.
+The HiPay Wallet cash-out integration for Wordpress is intended to be used with a *cron*, but can be used directly from the command line. In fact, this software is supposed to execute tasks automatically, which is why you need to configure *cron* jobs (or any other alternative) that will execute commands at the appropriate time automatically.
 
 Please note that default values for command line arguments/parameters are defined in the `parameters.yml`.
 
@@ -17,7 +17,7 @@ There are also two debug commands that do not need to be run using a *cron* job:
 
 # Notifications
 
-In some cases, the HiPay Wallet integration for Mirakl can encounter errors or issues that cannot be managed automatically. In such a case, a notification is sent by email in order to inform you about the issue. The email recipient can be configured in the `parameters.yml` file. When this documentation refers to a "notification" being sent upon error, it means an email notification.
+In some cases, the HiPay Wallet integration for Wordpress can encounter errors or issues that cannot be managed automatically. In such a case, a notification is sent by email in order to inform you about the issue. The email recipient can be configured in the `parameters.yml` file. When this documentation refers to a "notification" being sent upon error, it means an email notification.
 
 # Available commands
 
@@ -28,17 +28,17 @@ In some cases, the HiPay Wallet integration for Mirakl can encounter errors or i
 	$ php bin/console vendor:process
 
 ### Execution
-1. Retrieves the vendors from Mirakl.
+1. Retrieves the vendors from Wordpress.
 2. Saves the vendors: creates the HiPay Wallet account, if not already created, or gets the HiPay Wallet account number from HiPay.
 3. Validates them.
-4. Transfers the KYC files from Mirakl to the HiPay Wallet platform
-5. Adds the bank information on the HiPay Wallet account if not already done or checks HiPay’s bank information against the data from Mirakl to make sure they match.
+4. Transfers the KYC files from Wordpress to the HiPay Wallet platform
+5. Adds the bank information on the HiPay Wallet account if not already done or checks HiPay’s bank information against the data from Wordpress to make sure they match.
 If these are not the same, an error notification is sent.
 
 ### Argument
 |Name       |Type | Required | Description                           |
 |-----------|-----|----------|---------------------------------------|
-|lastUpdate |Date |No         |Date of the last update of Mirakl shops
+|lastUpdate |Date |No         |Date of the last update of Wordpress shops
 
 ### Options
 
@@ -59,7 +59,7 @@ This command should be run as often as the vendors update their data.
 	$ php bin/console cashout:generate
 
 ### Execution
-1. Retrieves the *PAYMENT* transactions from Mirakl to get all the payment vouchers of the cycle.
+1. Retrieves the *PAYMENT* transactions from Wordpress to get all the payment vouchers of the cycle.
 2. Calculates the amount due to the vendors and the operator thanks to the retrieved payment vouchers.
 3. Creates the operations to be executed afterwards, validates and saves them.
 
@@ -80,7 +80,7 @@ This command should be run as often as the vendors update their data.
 ### Cron example
 
 Please see below an example of how your cron job may be configured. Replace `path/to/bin/console` by the proper path to the `console` file.
-This command should be run right after the payment cycle has been made in Mirakl.
+This command should be run right after the payment cycle has been made in Wordpress.
 
 	30 0 1,11,21 * * php path/to/bin/console cashout:generate `date +%Y-%m-%d`
 

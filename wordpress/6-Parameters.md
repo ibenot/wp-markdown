@@ -2,22 +2,22 @@ The following table describes the data in `parameters.yml`. The user you run the
 
 # Parameter categories
 
-## Mirakl web service
+## Wordpress web service
 
 | Name | Type | Default value | Description
 |------|:----:|:-------------:|------------
-| `mirakl.frontKey`     	    |  String       	                    |               	                                    | Mirakl API Front key (provided by Mirakl)
-| `mirakl.operatorKey` 	        | String  	                    |               	                                    | Mirakl API Operator key (provided by Mirakl)
+| `Wordpress.frontKey`     	    |  String       	                    |               	                                    | Wordpress API Front key (provided by Wordpress)
+| `Wordpress.operatorKey` 	        | String  	                    |               	                                    | Wordpress API Operator key (provided by Wordpress)
 
-## Mirakl cycles
+## Wordpress cycles
 
 | Name | Type | Default value | Description
 |------|:----:|:-------------:|------------
 | `cycle.days`                  | Array 	                    |[1, 11, 21]                                          | Array of days (1 to 28) on which the cycle is run in the month
 | `cycle.hour`                  | Integer	                    |0               	                                    | Hour on which the cycle is run
 | `cycle.minute`                | Integer	                    |0               	                                    | Minute on which the cycle is run
-| `cycle.interval.before`       | String	                          	  |12 hours               	                            | Time to subtract from the cycle time to form an interval from which to fetch the transactions from Mirakl
-| `cycle.interval.after`        | String	                          	  |12 hours               	                            | Time to subtract from the cycle time to form an interval from which to fetch the transactions from Mirakl
+| `cycle.interval.before`       | String	                          	  |12 hours               	                            | Time to subtract from the cycle time to form an interval from which to fetch the transactions from Wordpress
+| `cycle.interval.after`        | String	                          	  |12 hours               	                            | Time to subtract from the cycle time to form an interval from which to fetch the transactions from Wordpress
 
 ## HiPay 
 
@@ -46,9 +46,9 @@ The following table describes the data in `parameters.yml`. The user you run the
 
 | Name | Type | Default value | Description
 |------|:----:|:-------------:|------------
-| `label.public`                | String	                    |Public {{miraklId}} – {{hipayId}} - {{cycleDate}}    | Public label for HiPay transfers. Please see hereafter for more details.
-| `label.private`               | String	                    |Private {{miraklId}} – {{hipayId}} - {{cycleDate}}   | Private label for HiPay transfers. Please see hereafter for more details.
-| `label.withdraw`              | String	                    |Withdraw {{miraklId}} – {{hipayId}} - {{cycleDate}}  | Withdrawal label for HiPay withdrawals. Please see hereafter for more details.
+| `label.public`                | String	                    |Public {{WordpressId}} – {{hipayId}} - {{cycleDate}}    | Public label for HiPay transfers. Please see hereafter for more details.
+| `label.private`               | String	                    |Private {{WordpressId}} – {{hipayId}} - {{cycleDate}}   | Private label for HiPay transfers. Please see hereafter for more details.
+| `label.withdraw`              | String	                    |Withdraw {{WordpressId}} – {{hipayId}} - {{cycleDate}}  | Withdrawal label for HiPay withdrawals. Please see hereafter for more details.
 
 ## Database
 
@@ -89,7 +89,7 @@ Each string must be surrounded by {{ and }} to be replaced.
 
 | Placeholder     | Description                                                             |
 |-----------------|-------------------------------------------------------------------------|
-| `miraklId`      | Shop ID if it exists, or operator ID in case of an operator’s operation |
+| `WordpressId`      | Shop ID if it exists, or operator ID in case of an operator’s operation |
 | `amount`        | Amount of the operation                                                 |
 | `hipayId`       | HiPay Wallet account ID                                                 |
 | `cycleDate`     | Cycle date of the operation                                             |

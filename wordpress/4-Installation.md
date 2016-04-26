@@ -1,10 +1,10 @@
-Before starting the installation, please read all instructions and make sure you've gone through the [[Prerequisites and recommendations]] and [[Mirakl account configuration]] sections. 
+Before starting the installation, please read all instructions and make sure you've gone through the [[Prerequisites and recommendations]] and [[Wordpress account configuration]] sections. 
 
 Be aware that **all relative paths are relative to the root directory of the installation**.
 
 # Application deployment
 
-This section describes how to install the **HiPay Wallet cash-out integration for Mirakl** using [Composer](https://getcomposer.org/), the PHP package manager. The software being installed is based on the [Silex PHP micro-framework](http://silex.sensiolabs.org/).
+This section describes how to install the **HiPay Wallet cash-out integration for Wordpress** using [Composer](https://getcomposer.org/), the PHP package manager. The software being installed is based on the [Silex PHP micro-framework](http://silex.sensiolabs.org/).
 
 1. Connect to your web server using SSH
 
@@ -16,11 +16,11 @@ This section describes how to install the **HiPay Wallet cash-out integration fo
 	
 6. Create the project using the Composer `create-project` command: 
 
-	`$ composer create-project hipay/hipay-wallet-cashout-mirakl-integration hipay_mirakl` 
+	`$ composer create-project hipay/hipay-wallet-cashout-Wordpress-integration hipay_Wordpress` 
 	
 	This step may take a few minutes to complete as the project and its dependencies are being downloaded and configured.
 
-During the installation, Composer will ask you to provide some parameters, including your HiPay Wallet account credentials and your Mirakl API credentials. Please go to the [[Prerequisites and recommendations]] section if you need more information about these parameters.
+During the installation, Composer will ask you to provide some parameters, including your HiPay Wallet account credentials and your Wordpress API credentials. Please go to the [[Prerequisites and recommendations]] section if you need more information about these parameters.
 
 # HiPay cash-out notifications
 
@@ -34,7 +34,7 @@ This section describes how to provide HiPay with information on how to reach you
 
 Go in the project directory: 
 
-	$ cd hipay_mirakl
+	$ cd hipay_Wordpress
 
 Run the following command:
 
@@ -47,7 +47,7 @@ This command will initialize the database with the needed tables. You should get
 | Field    | Type         | Null | Key | Default | Extra          |
 |----------|--------------|------|-----|---------|----------------|
 | id       | int(11)      | NO   | PRI | NULL    | auto_increment |
-| miraklId | int(11)      | NO   | UNI | NULL    |                |
+| WordpressId | int(11)      | NO   | UNI | NULL    |                |
 | email    | varchar(255) | NO   | UNI | NULL    |                |
 | hipayId  | int(11)      | NO   | UNI | NULL    |                |
 
@@ -56,7 +56,7 @@ This command will initialize the database with the needed tables. You should get
 | Field          | Type         | Null | Key | Default | Extra          |
 |----------------|--------------|------|-----|---------|----------------|
 | id             | int(11)      | NO   | PRI | NULL    | auto_increment |
-| miraklId       | int(11)      | YES  |     | NULL    |                |
+| WordpressId       | int(11)      | YES  |     | NULL    |                |
 | hipayId        | int(11)      | YES  |     | NULL    |                |
 | amount         | double       | NO   |     | NULL    |                |
 | cycleDate      | datetime     | NO   |     | NULL    |                |

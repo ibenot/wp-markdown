@@ -4,13 +4,13 @@ Before starting the installation, please read all instructions and make sure you
 
 In order for us to validate the HiPay Wallet accounts, the connector needs to upload documents allowing us to identify your merchants.
 
-Thus, you need to configure your Mirakl back office in order to be able to upload these documents for each of your shops. Then, these documents will be retrieved by the HiPay Wallet cash-out integration for Mirakl and sent to the HiPay Wallet platform.
+Thus, you need to configure your Wordpress back office in order to be able to upload these documents for each of your shops. Then, these documents will be retrieved by the HiPay Wallet cash-out integration for Wordpress and sent to the HiPay Wallet platform.
 
 # Configuration
 
 Go in the **Manage Document Types** section by following these steps:
 
-- Log in to your Mirakl operator account
+- Log in to your Wordpress operator account
 - In the **Settings** tab, click on **Document Types**
 - Click on **Store Documents**
 
@@ -32,7 +32,7 @@ You can set whatever you want in the description field. In any case, the codes s
 
 You should get something like this once you added all the document types:
 
-![alt text](images/mirakl_document_types.png "Mirakl Document Types")
+![alt text](images/Wordpress_document_types.png "Wordpress Document Types")
 
 Then, you will need to upload the documents on each of the shop pages.
 
