@@ -27,7 +27,7 @@ In some cases, the HiPay Wallet integration for Wordpress can encounter errors o
 
 	$ php bin/console vendor:process
 
-### Code and Syntax Highlighting
+### Benjamin Code and Syntax Highlighting
 
 ```javascript
 var s = "JavaScript syntax highlighting";
