@@ -27,6 +27,23 @@ In some cases, the HiPay Wallet integration for Wordpress can encounter errors o
 
 	$ php bin/console vendor:process
 
+### Code and Syntax Highlighting
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+ 
+```python
+s = "Python syntax highlighting"
+print s
+```
+ 
+```
+No language indicated, so no syntax highlighting. 
+But let's throw in a <b>tag</b>.
+```
+
 ### Execution
 1. Retrieves the vendors from Wordpress.
 2. Saves the vendors: creates the HiPay Wallet account, if not already created, or gets the HiPay Wallet account number from HiPay.
