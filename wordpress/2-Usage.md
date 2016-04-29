@@ -38,7 +38,43 @@ alert(s);
 s = "Python syntax highlighting"
 print s
 ```
+
+```css
+pre {
+    font-size: 90%;
+    line-height: 1.2em;
+    font-family: "Courier 10 Pitch", Courier, monospace; 
+    white-space: pre; 
+    white-space: pre-wrap; 
+    white-space: -moz-pre-wrap; 
+    white-space: -o-pre-wrap; 
+
+    height:1%;
+    width: auto;
+    display: block;
+    clear: both;
+    color: #555555;
+    padding: 1em 1em;
+    margin: auto 40px auto 40px;
+    background: #f4f4f4;
+    border: solid 1px #e1e1e1
+} 
+```
  
+```makefile
+BUILDDIR      = _build
+EXTRAS       ?= $(BUILDDIR)/extras
+
+.PHONY: main clean
+
+main:
+    @echo "Building main facility..."
+    build_main $(BUILDDIR)
+
+clean:
+    rm -rf $(BUILDDIR)/*
+```
+
 ```
 No language indicated, so no syntax highlighting. 
 But let's throw in a <b>tag</b>.
