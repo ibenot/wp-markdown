@@ -1,7 +1,5 @@
 # Joomla 1
 
-first content
-
 ## Preamble
 awesome dynamic documentation from github
 
